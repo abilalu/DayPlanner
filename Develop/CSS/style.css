@@ -1,0 +1,29 @@
+.inputText{
+    background: lavender;
+    height: 80px;
+    border: none;
+    border-radius: 0;
+    border-left: violet;
+    padding: 10px;
+
+}
+.jumbotron{
+    background-color: yellow;
+}
+.body{
+    background: yellowgreen;
+}
+.btn{
+    height: 80px;
+}
+.row{
+    margin-bottom: 3px;
+}
+.hour{
+    border-top: 1px dotted red;
+    padding-top: 30px;
+}
+.inputcontent{
+    margin-left: -20px;
+    margin-right: -28px;
+}
